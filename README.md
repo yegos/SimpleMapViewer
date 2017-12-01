@@ -1,5 +1,5 @@
-To work with this application use your numpad.
+Для работы с приложением используйте numpad.
 
-7: zoom top left;      8: move up;      9: zoom top right;
-4: move left;          5: undo;         6: move right;
-1: zoom botom left;    2: move down;    3: zoom botom right.
+Клавиши: 1,3,7,9  - позволяют перейти на следующий уровень.
+Клавиши: 2,8,4,6  - позволяют перемещаться вниз/вверх, вправо/влево по текущему уровню.
+Клавиша 5 - возвращает карту на шаг назад.
